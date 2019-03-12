@@ -3,8 +3,10 @@ theme: jekyll-theme-cayman
 title: Startup St. Louis
 # description:
 
-show_downloads: ["false"]
-show_social: ["false"]
+show_downloads: false
+show_social: false
+github:
+  is_project_page: false
 
 maintainer_name: Tyler
 
