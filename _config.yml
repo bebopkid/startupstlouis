@@ -15,3 +15,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_analytics: UA-136114179-1
+
+header-img: ![alt text](clint-bustrillos-1365482-unsplash.jpg "work")
